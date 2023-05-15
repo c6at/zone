@@ -1,4 +1,4 @@
-# DO NOT DEPLOY ON VERCEL IT DOES NOT WORK
+# CSB.APP WORKS FOR DEPLOYING
 
 ![Cosmic4README](https://github.com/CosmicProxy-DEV/Cosmic/blob/main/Cosmic4README.png)
 
