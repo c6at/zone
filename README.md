@@ -1,4 +1,4 @@
-# CSB.APP WORKS FOR DEPLOYING
+***Please refrain from using anything besides csb and render for deploying.***
 
 ![Cosmic4README](https://github.com/CosmicProxy-DEV/Cosmic/blob/main/Cosmic4README.png)
 
