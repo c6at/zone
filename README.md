@@ -4,9 +4,8 @@
 
 <br>
 
+# Important 
 ***Please refrain from using anything besides csb and render for deploying.***
-
-<br>
 
 # What is Cosmic? 
 
