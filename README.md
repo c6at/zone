@@ -1,6 +1,7 @@
 ***Please refrain from using anything besides csb and render for deploying.***
 
-![Cosmic4README](https://github.com/CosmicProxy-DEV/Cosmic/blob/main/Cosmic4README.png)
+![image](https://github.com/CosmicProxy-DEV/Cosmic/assets/119009502/242f289e-eb4f-46d9-a368-ae093ace4e1b)
+
 
 # What is Cosmic? 
 
