@@ -1,3 +1,5 @@
+# DO NOT DEPLOY ON VERCEL IT DOES NOT WORK
+
 ![Cosmic4README](https://github.com/CosmicProxy-DEV/Cosmic/blob/main/Cosmic4README.png)
 
 # What is Cosmic? 
