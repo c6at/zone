@@ -7,3 +7,5 @@
 Cosmic is a web proxy with many features.
 
 It is currently being updated by CosmosTheDEV and Tacogamerman.
+
+<img width="960" alt="image" src="https://github.com/CosmicProxy-DEV/Cosmic/assets/119009502/81e479a1-4f83-4b3f-985e-aad9291380a4">
