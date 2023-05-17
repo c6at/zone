@@ -8,5 +8,8 @@
 # What is Cosmic? 
 
 Cosmic is a web proxy with many features.
-
+<br>
 It is currently being updated by CosmosTheDEV and Tacogamerman.
+
+# How do I contribute?
+Fork the repository, and make a significant change.
