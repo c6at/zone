@@ -15,5 +15,5 @@ It is currently being updated by CosmosTheDEV and Tacogamerman.
 Fork the repository, and make a significant change.
 
 <br>
-
+# Thanks
 Credit to NotJustMeHere.
