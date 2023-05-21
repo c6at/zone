@@ -4,6 +4,8 @@
 
 # Important 
 ***Please refrain from using anything besides https://csb.app for deploying***
+<br>
+If you find an alternative to csb, tell me in an issue.
 
 # What is Cosmic? 
 
