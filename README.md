@@ -16,6 +16,6 @@ Fork the repository, and make a significant change.
 
 Credit to NotJustMeHere for helping us out with this README.
 
-# Showcase 
+# Showcase:
 
 <img width="960" alt="image" src="https://github.com/CosmicProxy-DEV/Cosmic/assets/119009502/ece4faaa-64d3-46fa-991b-0f8c0d412d37">
