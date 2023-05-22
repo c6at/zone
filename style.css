@@ -1,6 +1,6 @@
 html {
   height: 100%;
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  background: radial-gradient(ellipse at bottom, #FFFFFF 0%, #FFFFFF 100%);
   overflow: hidden;
 }
 
@@ -60,11 +60,11 @@ html {
   top: 50%;
   left: 0;
   right: 0;
-  color: #FFF;
+  color: #FFFFFF;
   text-align: center;
-  font-family: "lato", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 300;
-  font-size: 50px;
+  font-size: 40px;
   letter-spacing: 10px;
   margin-top: -60px;
   padding-left: 10px;
